@@ -62,12 +62,7 @@ function getClear(){
     text = '';
     document.getElementById("text").innerHTML = text;
 }
-function convEuro(){
-    let num = document.getElementById("text").value;
-    num=num*15;
-    document.getElementById("text").innerHTML=num;
 
-}
 function convRS_USD(){
     let num = document.getElementById("text").value;
     num=num/60;
