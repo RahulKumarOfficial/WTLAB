@@ -8,3 +8,6 @@ to dynamically provide the results. It should not take any non-number value.<br>
 button. Once the user clicks the submit button, it should show the number of
 characters, words and lines in the text entered using an alert message. Words are
 separated with a white space and lines are separated with new line character.
+>>Q4: Write an HTML page that contains a selection box with a list of 5 countries. When the
+user selects a country, its capital should be printed next to the list. Add CSS to
+customize the properties of the font of the capital (colour, bold and font size).
