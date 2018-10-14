@@ -12,6 +12,7 @@ separated with a white space and lines are separated with new line character.
 >>Q4: Write an HTML page that contains a selection box with a list of 5 countries. When the
 user selects a country, its capital should be printed next to the list. Add CSS to
 customize the properties of the font of the capital (colour, bold and font size).
+<br><hr>
 >>Q5: Create a generic sign up page for including parameters like First Name, Last Name,
 Date of Birth, mobile number and email address and perform form validation on 
 submit using JavaScript.
