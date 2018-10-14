@@ -88,3 +88,9 @@ function convUSD_Euro(){
     num=num*15;
     document.getElementById("text").innerHTML=num;
 }
+function chkAlpha(){
+    var text = document.getElementById("text").value;
+    var s = text.search(/^![a-zA-Z]+/)
+    if(s)
+        alert("Warning: You are entering alphabets");
+}
